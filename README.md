@@ -54,7 +54,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-anyIsEntryIn = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@umd/browser.js' )
+anyIsEntryIn = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@v0.0.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -66,7 +66,7 @@ var anyIsEntryIn = require( 'path/to/vendor/umd/array-base-any-is-entry-in/index
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@v0.0.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -131,7 +131,7 @@ bool = anyIsEntryIn( [ o1, o2, o3 ], 'b', 0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@v0.0.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
