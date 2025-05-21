@@ -38,19 +38,19 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/assert/any-is-entry-in"
-%% click B href "https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/main"
-%% click C href "https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/production"
-%% click D href "https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/esm"
-%% click E href "https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/deno"
-%% click F href "https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/any-is-entry-in"
+%% click B href "https://github.com/stdlib-js/array-base-any-is-entry-in/tree/main"
+%% click C href "https://github.com/stdlib-js/array-base-any-is-entry-in/tree/production"
+%% click D href "https://github.com/stdlib-js/array-base-any-is-entry-in/tree/esm"
+%% click E href "https://github.com/stdlib-js/array-base-any-is-entry-in/tree/deno"
+%% click F href "https://github.com/stdlib-js/array-base-any-is-entry-in/tree/umd"
 ```
 
-[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/assert/any-is-entry-in
-[production-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/production
-[deno-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/deno
-[deno-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/umd
-[umd-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/esm
-[esm-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/esm/README.md
+[stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/any-is-entry-in
+[production-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/production
+[deno-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/deno
+[deno-readme]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/umd
+[umd-readme]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/esm
+[esm-readme]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/esm/README.md

@@ -50,7 +50,7 @@ limitations under the License.
 ## Installation
 
 ```bash
-npm install @stdlib/array-base-assert-any-is-entry-in
+npm install @stdlib/array-base-any-is-entry-in
 ```
 
 Alternatively,
@@ -70,10 +70,10 @@ To view installation and usage instructions specific to each branch build, be su
 ## Usage
 
 ```javascript
-var anyIsEntryIn = require( '@stdlib/array-base-assert-any-is-entry-in' );
+var anyIsEntryIn = require( '@stdlib/array-base-any-is-entry-in' );
 ```
 
-#### anyIsEntryIn( arr, property )
+#### anyIsEntryIn( arr, property, value )
 
 Tests whether at least one element in a provided array has a specified property key-value pair, either own or inherited.
 
@@ -122,7 +122,7 @@ bool = anyIsEntryIn( [ o1, o2, o3 ], 'b', 0 );
 var fromCodePoint = require( '@stdlib/string-from-code-point' );
 var discreteUniform = require( '@stdlib/random-base-discrete-uniform' );
 var filledBy = require( '@stdlib/array-filled-by' );
-var anyIsEntryIn = require( '@stdlib/array-base-assert-any-is-entry-in' );
+var anyIsEntryIn = require( '@stdlib/array-base-any-is-entry-in' );
 
 function randomObject() {
     var o = {};
@@ -196,19 +196,19 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <section class="links">
 
-[npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-assert-any-is-entry-in.svg
-[npm-url]: https://npmjs.org/package/@stdlib/array-base-assert-any-is-entry-in
+[npm-image]: http://img.shields.io/npm/v/@stdlib/array-base-any-is-entry-in.svg
+[npm-url]: https://npmjs.org/package/@stdlib/array-base-any-is-entry-in
 
-[test-image]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/actions/workflows/test.yml/badge.svg?branch=main
-[test-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/actions/workflows/test.yml?query=branch:main
+[test-image]: https://github.com/stdlib-js/array-base-any-is-entry-in/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/actions/workflows/test.yml?query=branch:main
 
-[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-assert-any-is-entry-in/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/array-base-assert-any-is-entry-in?branch=main
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-base-any-is-entry-in/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/array-base-any-is-entry-in?branch=main
 
 <!--
 
-[dependencies-image]: https://img.shields.io/david/stdlib-js/array-base-assert-any-is-entry-in.svg
-[dependencies-url]: https://david-dm.org/stdlib-js/array-base-assert-any-is-entry-in/main
+[dependencies-image]: https://img.shields.io/david/stdlib-js/array-base-any-is-entry-in.svg
+[dependencies-url]: https://david-dm.org/stdlib-js/array-base-any-is-entry-in/main
 
 -->
 
@@ -222,15 +222,15 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [umd]: https://github.com/umdjs/umd
 [es-module]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 
-[deno-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/deno
-[deno-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/deno/README.md
-[umd-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/umd
-[umd-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/umd/README.md
-[esm-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/tree/esm
-[esm-readme]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/esm/README.md
-[branches-url]: https://github.com/stdlib-js/array-base-assert-any-is-entry-in/blob/main/branches.md
+[deno-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/deno
+[deno-readme]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/deno/README.md
+[umd-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/umd
+[umd-readme]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/umd/README.md
+[esm-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/tree/esm
+[esm-readme]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/esm/README.md
+[branches-url]: https://github.com/stdlib-js/array-base-any-is-entry-in/blob/main/branches.md
 
-[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-assert-any-is-entry-in/main/LICENSE
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-any-is-entry-in/main/LICENSE
 
 </section>
 
