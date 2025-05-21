@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import anyIsEntryIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@deno/mod.js';
+import anyIsEntryIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@v0.0.0-deno/mod.js';
 ```
 
 #### anyIsEntryIn( arr, property, value )
@@ -104,7 +104,7 @@ bool = anyIsEntryIn( [ o1, o2, o3 ], 'b', 0 );
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@deno/mod.js';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
-import anyIsEntryIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@deno/mod.js';
+import anyIsEntryIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-any-is-entry-in@v0.0.0-deno/mod.js';
 
 function randomObject() {
     var o = {};
