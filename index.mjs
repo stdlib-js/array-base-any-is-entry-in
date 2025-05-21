@@ -1,0 +1,4 @@
+// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import r from"https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-accessor-array@v0.2.2-esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/array-base-resolve-getter@v0.2.2-esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-property@v0.2.2-esm/index.mjs";function s(s,n,i){return r(s)?function(r,s,n){var i,o,f;if(i=t(r),void 0===n){for(f=0;f<r.length;f++)if(o=i(r,f),e(o,s)&&o[s]===n)return!0;return!1}for(f=0;f<r.length;f++)if(i(r,f)[s]===n)return!0;return!1}(s,n,i):function(r,t,s){var n,i;if(void 0===s){for(i=0;i<r.length;i++)if(n=r[i],e(n,t)&&n[t]===s)return!0;return!1}for(i=0;i<r.length;i++)if(r[i][t]===s)return!0;return!1}(s,n,i)}export{s as default};
+//# sourceMappingURL=index.mjs.map
