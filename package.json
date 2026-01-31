@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-any-is-entry-in",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Test whether at least one element in a provided array has a specified property key-value pair, either own or inherited.",
   "license": "Apache-2.0",
   "author": {
