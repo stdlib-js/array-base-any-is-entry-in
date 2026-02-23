@@ -38,17 +38,17 @@
   },
   "dependencies": {
     "@stdlib/array-base-assert-is-accessor-array": "^0.2.3",
-    "@stdlib/array-base-resolve-getter": "^0.2.2",
+    "@stdlib/array-base-resolve-getter": "^0.2.3",
     "@stdlib/assert-has-property": "^0.2.3",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-base-to-accessor-array": "^0.2.2",
-    "@stdlib/array-filled": "^0.3.0",
-    "@stdlib/array-filled-by": "^0.3.0",
+    "@stdlib/array-base-to-accessor-array": "^0.2.3",
+    "@stdlib/array-filled": "^0.3.1",
+    "@stdlib/array-filled-by": "^0.3.1",
     "@stdlib/assert-is-boolean": "^0.2.3",
     "@stdlib/math-base-special-pow": "^0.3.1",
-    "@stdlib/random-base-discrete-uniform": "^0.2.1",
+    "@stdlib/random-base-discrete-uniform": "^0.2.2",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/string-from-code-point": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
